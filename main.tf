@@ -1,4 +1,4 @@
 resource "null_resource" "example" {
 }
 
-resources "random_password" "test" {}
+resource "random_password" "test" {}
